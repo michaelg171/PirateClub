@@ -1,0 +1,113 @@
+body{
+	
+	background-color: #348890;
+}
+
+
+div.one{
+	font-size: 25pt;
+	color: white;
+	margin: auto;
+	text-align:center;
+}
+div.one h1{
+	font-size: 20pt;
+	color: black;
+
+}
+div.one h2{
+	font-size: 14pt;
+	color: black;
+}
+div #pir1{
+	width: 30%;
+	height: 180pt;
+	text-align: center; 
+}
+div #pir3{
+	width: 30%;
+	height: 180pt;
+	float: right; 
+}
+div #pir2{
+	width: 30%;
+	float: left;
+	height: 180pt;
+}
+
+ul{
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li{
+	display: inline;
+}
+
+li a{
+		background-color: black;
+		color: black;
+		text-align: center;
+		padding: 14px 16px;	
+}
+
+input.reg{
+	width: 10%;
+}
+input.log{
+	width: 10%;
+}
+form.selections{
+	text-align: center;
+}
+.text1{
+	float: left;
+	font-size: 16pt;
+	padding-left: 60pt;
+	color: 
+}
+.text2{
+	text-align: center;
+	font-size: 16pt;
+	padding-left: 45pt;
+}
+.text3{
+	float: right;
+	font-size: 16pt;
+	padding-right: 10pt;
+}
+div.bragging{
+	font-size: 14pt;
+	text-align: center;
+	font-style: italic;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+div.one a:link{
+	color: blue;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+div.one a:hover{
+	color: green;
+}
+
+div.one a:active{
+	color: yellow;
+}
+
+.Register{
+    text-align:center;
+    margin:auto;
+}
+div.Reg{
+    margin:auto;
+    text-align:center;
+}
+div.Dates{
+    width: 500px;
+    margin: auto;
+}
